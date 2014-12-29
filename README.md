@@ -11,13 +11,13 @@ BUILD INSTRUCTIONS?
 Specific sources are separated by branches and each version is tagged with it's corresponding number. First, you should
 clone the project:
 
-        $ git clone git@github.com:bq/aquaris-e5-4g.git
+        $ git clone https://github.com/bq/aquaris-e5-4g.git
 
 After it, choose the version you would like to build:
 
 *Aquaris E5 4G*
 
-        $ cd aquaris-e5-4G/
+        $ cd aquaris-e5-4g/
         $ git checkout aquaris-E5-4G
 
 Download a prebuilt gcc
